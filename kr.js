@@ -694,53 +694,53 @@ social.market.gift.amount 선물할
 social.market.fee.gift 수수료 없음
 social.market.gift KR 선물하기
 social.market.gift.msg 문자 남기기
-respawn.auto Auto Respawning in {0}
-custom.host.ranked Can't host match while in ranked.
-funds.insufficient Insufficient Funds
-funds.out It appears you have run out of Krunkies.
-custom.passcode.long Password too long
-custom.passcode.input Enter Server Password to join
-custom.tryagain Please try again.
-purchase.kr.success Added {0} KR to your account
-limited.purchase.ask Are you sure you want to purchase [{0}] for {1} KR?
-limited.purchase.success Added {0} to your inventory
-pretend.exit press [{0}] again to exit
-settings.loaded Settings Loaded
-settings.loaded.none No settings found
-account.login.required Must be logged in
-account.banned.hack This account has been banned for Hacking.
-account.banned.appeal If you want to appeal your ban, contact:
-account.delete You may request to delete your account, if the request is not cancelled within 14 days the account and all associated data will be permanently removed.
-account.delete.request Are you sure you want to request an account deletion?
-account.delete.cancel Are you sure you want to cancel account deletion?
-spin.free.available FREE KR AVAILABLE!
-spin.free.claim This spin is available to claim once per Hour after completing a match.
-spin.free.disable These Popups can be disabled in General Settings
-mod.reset.0 Will take effect after respawning.
-mod.reset.1 Map Objects dont get reset
-windows.profile.picture Change Picture
+respawn.auto Auto Respawning in {0} {0} 초 후에 자동 리스폰 됩니다.
+custom.host.ranked Can't host match while in ranked. 랭크전을 할 때에는 게임 호스트가 불가능 합니다.
+funds.insufficient Insufficient Funds 이 부족합니다.
+funds.out It appears you have run out of Krunkies. Krunkies가 부족한 것 같습니다. 
+custom.passcode.long Password too long 비밀번호가 너무 깁니다.
+custom.passcode.input Enter Server Password to join 참가하시려면 비밀번호를 입력해주십시요.
+custom.tryagain Please try again. 다시 시도해주세요.
+purchase.kr.success Added {0} KR to your account {0} KR을 계정에 추가했습니다.
+limited.purchase.ask Are you sure you want to purchase [{0}] for {1} KR? {1} KR로 [{0}] 을 구매하시겠습니까?
+limited.purchase.success Added {0} to your inventory {0} 를 인벤토리에 추가했습니다.
+pretend.exit press [{0}] again to exit 나가시려면 [{0}] 를 다시 눌러주십시오.
+settings.loaded Settings Loaded 설정 로드가 완료되었습니다.
+settings.loaded.none No settings found 설정을 찾을수 없습니다.
+account.login.required Must be logged in 로그인 해야 이용가능.
+account.banned.hack This account has been banned for Hacking. 이 계정은 해킹으로 차단되었습니다.
+account.banned.appeal If you want to appeal your ban, contact: 계정의 차단을 풀수있는 증거가 있다면, 연락해주십시오:
+account.delete You may request to delete your account, if the request is not cancelled within 14 days the account and all associated data will be permanently removed. 계정 삭제를 요청하실수 있습니다. 계정 삭제 요청이 14일 안에 최소가 안 되어있다면 계정의 저장된 데이터가 영구적으로 삭제됩니다.
+account.delete.request Are you sure you want to request an account deletion? 계정 삭제 요청을 하시겠습니까?
+account.delete.cancel Are you sure you want to cancel account deletion? 계정 삭제 요청 취소를 하시겠습니까?
+spin.free.available FREE KR AVAILABLE! 무료 KR 가능합니다!
+spin.free.claim This spin is available to claim once per Hour after completing a match. 이 스핀은 한 시간 마다 게임 한판을 돌리면 얻을수 있습니다.
+spin.free.disable These Popups can be disabled in General Settings 이런 팝업들은 설정에서 끌수도 있습니다.
+mod.reset.0 Will take effect after respawning.  리스폰 후에 영향이 갑니다.
+mod.reset.1 Map Objects dont get reset 맵 오브젝트는 리셋되지 않습니다.
+windows.profile.picture Change Picture 사진 교체
 stats.assists Assists
 stats.nukes Nukes
 stats.melee Melee
-stats.fistkills Beatdowns
+stats.fistkills Beatdowns 
 stats.thrownkills Bullseyes
 stats.headshots Headshots
 stats.wallbangs Wallbangs
 stats.sprays Sprays Placed
-windows.host.default.settings Enabling Default Settings allows for storing Player Progress and Highscores
-windows.host.default.commands *Host Commands are Disabled in this mode: /noclip /god /smite etc
-windows.host.rewards Enabling KR Rewards forces the Server to use Default Settings & allows players to earn KR from the map funds:
-windows.store.wheels.sub Try your luck and spin for a chance to win some new skins!
-windows.store.currency * Prices in USD can be converted to your local currency at an exchange rate defined by the payment provider or bank
-windows.store.creator Consider Support your favorite Content Creator by using a Creator Code
-windows.chall.customs Challenges can't be completed in Custom Matches
-twitch.link Are you sure you want to link a twitch account?
-twitch.unlink Are you sure you want to unlink your twitch account?
-windows.clan.leave Are you sure you want to leave the clan?
-windows.clan.delete Are you sure you want to delete the clan?
-windows.clan.kick Are you sure you want kick {0} from the clan?
-windows.store.premium.purchase Are you sure you want to purchase {0} days of Premium?
-windows.playerlist.ban Are you sure you want ban {0} from this game?
+windows.host.default.settings Enabling Default Settings allows for storing Player Progress and Highscores 기본 게임설정을 키는것은 플레이어의 점수와 진도를 저장할수 있게 허용해줍니다.
+windows.host.default.commands *Host Commands are Disabled in this mode: /noclip /god /smite etc /noclip /god /smite 등 호스트 명령어는 이 모드에서 금지되어있습니다.
+windows.host.rewards Enabling KR Rewards forces the Server to use Default Settings & allows players to earn KR from the map funds: KR 보상을 활성화 하면 서버가 기본 게임설정을 사용하게 되고 플레이어가 맵 자금에서 KR 보상을 얻을 수 있습니다
+windows.store.wheels.sub Try your luck and spin for a chance to win some new skins! 당신의 운으로 스핀을 돌려 새로운 스킨을 얻으세요!
+windows.store.currency * Prices in USD can be converted to your local currency at an exchange rate defined by the payment provider or bank * USD로 된 가격은 결제 제공 업체 또는 은행에서 당신의 국가의 환율에 따라 현지 통화로 변환할수 있습니다.
+windows.store.creator Consider Support your favorite Content Creator by using a Creator Code 당신이 가장 좋아하는 스트리머의 코드를 입력하여 스트리머를 지원하는걸 고려해 보십시오
+windows.chall.customs Challenges can't be completed in Custom Matches 챌린지는 커스텀 게임에서 완료될수 없습니다.
+twitch.link Are you sure you want to link a twitch account? 정말로 트위치 계정을 연동 하고 싶습니까?
+twitch.unlink Are you sure you want to unlink your twitch account? 정말로 당신의 트위치 계정의 연동을 끊고 싶습니까?
+windows.clan.leave Are you sure you want to leave the clan? 정말로 이 클랜을 떠나고 싶습니까?
+windows.clan.delete Are you sure you want to delete the clan? 정말로 이 클랜을 삭제하고 싶습니까?
+windows.clan.kick Are you sure you want kick {0} from the clan? 정말로 {0} 을 클랜에서 추방하고 싶습니까?
+windows.store.premium.purchase Are you sure you want to purchase {0} days of Premium? {0} 일 의 프리미엄을 구입하고 싶습니까?
+windows.playerlist.ban Are you sure you want ban {0} from this game? 정말로 {0} 을 게임에서 추방하고 싶습니까?
 windows.playerlist.flag Are you sure you want to Flag {0}?
 windows.playerlist.unflag Are you sure you want to Unflag {0}?
 windows.playerlist.punish Are you sure you want to take action on {0}?
